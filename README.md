@@ -22,7 +22,7 @@ A web-based application for generating AIA G702 (Application and Certificate for
 
 1. Clone this repository or download the files:
 ```
-git clone https://github.com/yourusername/aia-form-generator.git
+git clone https://github.com/ibuilder/AIAG702G703.git
 ```
 
 2. Open the `index.html` file in your web browser or host the files on a web server.
